@@ -1,10 +1,4 @@
 <div align="center">
-
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6KCh4W8YjbtpXig1KJVV-DV9iT81LRGa5uAxmEAU_g&s=10" width="600px" alt="Banner do Rei das Maldições: Sukuna">
-  
----
-
-<div align="center">
   <h1>Flávio Mathias</h1>
   <p>Desenvolvedor Java | APIs REST | Estudante de Engenharia de Software</p>
 </div>
